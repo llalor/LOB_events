@@ -10,4 +10,4 @@ The data here can be found on https://lobsterdata.com/. See the following paper 
       author={Lalor, Luca and Swishchuk, Anatoliy},
       journal={arXiv preprint arXiv:2502.17417},
       year={2025}
-}
+   }
